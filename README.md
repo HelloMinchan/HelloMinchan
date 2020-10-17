@@ -8,7 +8,7 @@
 <br>
 
 ## Education   
-Dept. of Software, Sangmyung University (2016 ~ )
+Dept. of Software, Sangmyung University ( 2016 ~ )
 
 <br>
 
