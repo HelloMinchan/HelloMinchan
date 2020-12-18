@@ -17,7 +17,7 @@ Dept. of Software, Sangmyung University ( 2016 ~ )
 - UCPC 본선 진출 ( 2020.08 )
 - 골프 Tech 플랫폼, 김캐디 개발 인턴 ( 2020 ~ )
 - ICPC Seoul Regional 본선 진출 ( 2020.10 )
-- 제 7회 대한민국 SW융합 해커톤 대회 대상 ( 2020.12 )
+- 제7회 대한민국 SW융합 해커톤 대회 대상 ( 2020.12 )
 
 <br>
 
