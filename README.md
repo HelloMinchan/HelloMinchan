@@ -15,7 +15,7 @@ Dept. of Software, Sangmyung University ( 2016 ~ )
 ## Experience
 - 자취방 중계 모바일 O2O 서비스, 본방사수 대표 ( 2019 ~ 2020 )
 - UCPC 본선 진출 ( 2020.08 )
-- 골프 Tech 플랫폼, 김캐디 개발 인턴 ( 2020.08 ~ 2020.12 )
+- 골프 Tech 플랫폼, 김캐디 Software Engineer ( 2020.08 ~ )
 - ICPC Seoul Regional 본선 진출 ( 2020.10 )
 - 제7회 대한민국 SW융합 해커톤 대회 대상 ( 2020.12 )
 
