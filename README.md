@@ -20,7 +20,3 @@ Dept. of Software, Sangmyung University ( 2016 ~ )
 - 제7회 대한민국 SW융합 해커톤 대회 대상 ( 2020.12 )
 
 <br>
-
------
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HelloMinchan&show_icons=true&theme=graywhite&include_all_commits=true&hide=stars)
-&nbsp;&nbsp;
