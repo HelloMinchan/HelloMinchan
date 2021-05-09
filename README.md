@@ -7,6 +7,11 @@
 
 <br>
 
+## Career
+https://hellominchan.github.io/
+
+<br>
+
 ## Education   
 Dept. of Software, Sangmyung University ( 2016 ~ )
 
